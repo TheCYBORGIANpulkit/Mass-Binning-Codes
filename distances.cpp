@@ -1,4 +1,10 @@
-
+#include <iostream>  //declaring variables
+#include <iomanip>
+#include <string>
+#include <fstream>
+#include <cstdlib>
+#include <cmath>
+#include <gsl/gsl_math.h>
 
 
 using namespace std;
@@ -56,5 +62,4 @@ int main(){
     outfile2.close();
     outfile3.close();
     return 0;
-}
-*/
+}*/
